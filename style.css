@@ -1,0 +1,51 @@
+body {
+  background-color: rgba(0, 0, 0, 0.904);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: cursive;
+  color: whitesmoke;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 30%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+p {
+  font-family: cursive;
+  color: whitesmoke;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+a {
+  font-family: cursive;
+  color: whitesmoke;
+  text-decoration: none;
+  text-align: center;
+  transition: color 0.2s ease;
+  display: block;
+  margin: 0 auto;
+}
+
+a:hover {
+  color: #ccc;
+}
+
+.links {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.links a {
+  display: block;
+  margin-bottom: 10px;
+}
